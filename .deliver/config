@@ -1,0 +1,8 @@
+#!/bin/bash
+
+STRATEGY="nodejs"
+APP="seo"
+APP_USER="nodejs"
+HOSTS="166.78.106.239"
+PORT="10300"
+REFSPEC="master"
