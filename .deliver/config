@@ -2,7 +2,7 @@
 
 STRATEGY="nodejs"
 APP="seo"
-APP_USER="nodejs"
-HOSTS="166.78.106.239"
+APP_USER="seoserver"
+HOSTS="162.242.161.6"
 PORT="10300"
 REFSPEC="master"
